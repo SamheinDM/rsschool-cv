@@ -17,6 +17,22 @@ developer and find work in stable company with good team.
 * CSS
 * Git
 ## Examples
+```JS
+    function solution(input, markers) {
+      return input
+        .split('\n')
+        .map((string) => {
+          for (let i = 0; i < markers.length; i++) {
+            let cutIndex = string.indexOf(markers[i]);
+            if (cutIndex >= 0) {
+              return string.slice(0, cutIndex).trim();
+            }
+          }
+          return string;
+        })
+        .join('\n');
+    };
+```
 [Code Wars](https://www.codewars.com/users/SamheinDM)
 https://github.com/SamheinDM/ColorHelper
 ## Experience
