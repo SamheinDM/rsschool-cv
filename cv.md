@@ -1,5 +1,5 @@
 # Maxim Perevezencev
-![](photo.png)
+![](./photo.PNG)
 ## Contacts
 * Email: SamheinDm@yandex.ru
 * Telegram: Samhein
@@ -34,6 +34,7 @@ developer and find work in stable company with good team.
     };
 ```
 [Code Wars](https://www.codewars.com/users/SamheinDM)
+
 https://github.com/SamheinDM/ColorHelper
 ## Experience
 Complete RSSchool Front End 2020Q3 course. Around 1 year working with **VBA** and **SQL** in **MS Access**.
